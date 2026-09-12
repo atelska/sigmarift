@@ -1,0 +1,7 @@
+/target/
+/dist/
+/models/*.gguf
+/sessions/
+/workspace/
+/playbooks/
+/prompts/instructions.md
